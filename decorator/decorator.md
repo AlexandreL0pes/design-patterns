@@ -1,4 +1,4 @@
-# Composite
+# Decorator
 
 ### Resumo
   Adiciona responsabilidades dinamicamente em objetos individuais e não em toda a classe.
